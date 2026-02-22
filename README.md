@@ -1,4 +1,4 @@
-## Decoder for custom tiny ASM implementation in RUST
+## Decoder for custom tiny ASM architecture in RUST
 
 This project I made just to learn some ASM + Rust, and this is decoder for my custom
 8-bit ASM architecture. (actually its not mine, but Konstantin Vladimirov from MIPT)
