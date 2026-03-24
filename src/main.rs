@@ -60,7 +60,6 @@ fn parse_hex_byte(s: &str) -> Option<u8> {
     u8::from_str_radix(hex, 16).ok()
 }
 
-// I know that code is trash, but this is my 3 rust program :)
 fn main() {
     let mut input: String = String::new();
 
